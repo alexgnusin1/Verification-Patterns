@@ -20,15 +20,30 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 | cover_value | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/cover/cover_value/cover_value.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/cover/cover_value/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/cover/cover_value/cover_value.pdf) |
 
 
+### Generation Verification Components
+| Name | Code | Usage Example | Documentation |
+| gen_delay | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/gen_delay.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/gen_delay.pdf) |
+| gen_delta | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delta/gen_delta.v) | [Example]() | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delta/gen_delta.pdf) |
+| gen_distance | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/gen_distance.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/gen_distance.pdf) |
+| gen_frame | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_frame/gen_frame.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_frame/test.v) | PDF |
+| gen_pulse | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_pulse/gen_pulse.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_pulse/test.v) | PDF |
 
 ### Coverage Verification Components
 | Name | Code | Usage Example | Documentation |
 | cover_value | [Code]() | [Example]() | [PDF]() |
-
-
-
-### Coverage Verification Components
-| Name | Code | Usage Example | Documentation |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
+| cover_value | [Code]() | [Example]() | [PDF]() |
 | cover_value | [Code]() | [Example]() | [PDF]() |
 
 

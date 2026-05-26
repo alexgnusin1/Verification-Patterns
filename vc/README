@@ -1,3 +1,3 @@
 VC (Verificaton Components)
 
-The Verification Pattern Library provides a set of reusable constructs which help streamline and significantly facilitate development of various Testbench components. They include parametric scoreborads, fifo models, convenient randomization functions as well as the set of  basic components (rose, fell, change erc) targeted to facilitate the testbench development. 
+The Verification Pattern Library provides a set of reusable constructs that help streamline and significantly facilitate the development of various testbench components. These include parametric scoreboards, FIFO models, convenient randomization functions, as well as a set of basic components (rose, fell, change, etc.) designed to simplify testbench development.

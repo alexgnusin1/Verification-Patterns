@@ -29,23 +29,19 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 | gen_frame | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_frame/gen_frame.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_frame/test.v) | PDF |
 | gen_pulse | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_pulse/gen_pulse.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_pulse/test.v) | PDF |
 
-### Coverage Verification Components
+### General-Purpose Verification Components
 | Name | Code | Usage Example | Documentation |
 | -------- | -------- | -------- | -------- |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
-| cover_value | [Code]() | [Example]() | [PDF]() |
+| vc_bit | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_bit/vc_bit.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_bit/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_bit/vc_bit.pdf) |
+| vc_count | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_count/vc_count.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_count/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_count/vc_count.pdf) |
+| vc_fifo | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_fifo/vc_fifo.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_fifo/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_fifo/vc_fifo.pdf) |
+| vc_list | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_list/vc_list.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_list/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_list/vc_list.pdf) |
+| vc_array | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_array/test.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_array/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_array/vc_array.pdf) |
+| vc_switch | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_switch/vc_switch.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_switch/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_switch/vc_switch.pdf) |
+| vc_sync | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_sync/vc_sync.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_sync/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_sync/vc_sync.pdf) |
+| vc_timing | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_timing/vc_timing.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_timing/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_timing/vc_timing.pdf) |
+| vc_random | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_random/vc_random.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_random/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_random/vc_random.pdf) |
+| vc_randc | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_randc/vc_randc.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_randc/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/vc/vc_randc/vc_randc.pdf) |
+
 
 

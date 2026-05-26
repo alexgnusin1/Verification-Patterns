@@ -6,7 +6,7 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 ### Checking Verification Components
 | Name | Code | Example | HTML | PDF |
 | -------- | -------- | -------- | -------- | -------- |
-| check_distance | Code | Example | HTML | PDF |
+| check_distance | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/check/check_distance/check_distance.v) | Example | HTML | PDF |
 | check_time_distance | Code | Example | HTML | PDF |
 | check_frame | Code | Example | HTML | PDF |
 

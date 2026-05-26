@@ -10,3 +10,4 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 | check_time_distance | Code | Example | HTML | PDF |
 | check_frame | Code | Example | HTML | PDF |
 
+External Website: [Visit Google](https://www.google.com)

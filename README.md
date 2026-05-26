@@ -22,6 +22,7 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 
 ### Generation Verification Components
 | Name | Code | Usage Example | Documentation |
+| -------- | -------- | -------- | -------- |
 | gen_delay | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/gen_delay.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delay/gen_delay.pdf) |
 | gen_delta | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delta/gen_delta.v) | [Example]() | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_delta/gen_delta.pdf) |
 | gen_distance | [Code](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/gen_distance.v) | [Example](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/test.v) | [PDF](https://github.com/alexgnusin1/Verification-Patterns/blob/main/gen/gen_distance/gen_distance.pdf) |
@@ -30,6 +31,7 @@ The Verification Pattern Library (VPL) is an open-source repository of verificat
 
 ### Coverage Verification Components
 | Name | Code | Usage Example | Documentation |
+| -------- | -------- | -------- | -------- |
 | cover_value | [Code]() | [Example]() | [PDF]() |
 | cover_value | [Code]() | [Example]() | [PDF]() |
 | cover_value | [Code]() | [Example]() | [PDF]() |
